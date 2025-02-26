@@ -1,3 +1,0 @@
-git remote add origin https://github.com/fabiobaroliveira/gerador_base_de_dados.git
-git branch -M main
-git push -u origin main
